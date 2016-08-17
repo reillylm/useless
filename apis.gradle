@@ -7,6 +7,6 @@ buildscript {
 }
 
 apply plugin: 'java'
-apply plugin: 'nebula.nebula-release'
+apply plugin: nebula.plugin.release.ReleasePlugin
 
 sourceCompatibility = 1.8
