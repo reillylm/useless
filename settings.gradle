@@ -1,4 +1,4 @@
 rootProject.name = 'useless.platform'
 
-include 'useless.quote'
-include 'useless.vehicle'
+//include 'useless.quote'
+//include 'useless.vehicle'
