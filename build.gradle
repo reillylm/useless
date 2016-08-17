@@ -1,9 +1,11 @@
+/*
 buildscript {
     repositories { jcenter() }
     dependencies {
         classpath 'com.netflix.nebula:nebula-release-plugin:4.1.0'
     }
 }
+*/
 
 plugins {
 	id 'java'
@@ -13,8 +15,7 @@ plugins {
 allprojects {
 	group = 'useless.platform'
 	version = '1.0-SNAPSHOT'
-
-	apply plugin: 'nebula.release'
+	//apply plugin: 'nebula.release'
 
 }
 
