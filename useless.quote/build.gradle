@@ -1,5 +1,0 @@
-
-group 'useless.apis'
-version '1.0-SNAPSHOT'
-
-apply from: "../apis.gradle"
